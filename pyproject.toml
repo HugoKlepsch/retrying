@@ -7,3 +7,4 @@ name = "retrying-hk"
 version = "1.4.1"
 description = "Python retrying library, forked from groodt/retrying"
 authors = [{name = "Hugo Klepsch", email = "hugo.klepsch@gmail.com"}]
+dynamic = ["readme", "requires-python", "license", "keywords", "classifiers"]
