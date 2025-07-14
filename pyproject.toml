@@ -1,2 +1,9 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "retrying-hk"
+version = "1.4.1"
+description = "Python retrying library, forked from groodt/retrying"
+authors = [{name = "Hugo Klepsch", email = "hugo.klepsch@gmail.com"}]
